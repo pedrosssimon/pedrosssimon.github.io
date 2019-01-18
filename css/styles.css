@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+}
+
+.contentSplashscreen {
+    width: 360px;
+    height: 740px;
+    background-image: url("../images/Splashscreen.png");
+    background-size: 360px, 740px;
+}
+
+.paddingSplashscreen {
+    padding-top: 550px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.contentChat{
+    width: 360px;
+    height: 60px;
+    background-size: 360px, 740px;
+}
+
+.chat {
+    position: fixed;
+    width: 360px;
+    height: 600px;
+}
+
+.paddingChat {
+    padding-top: 10px;
+    padding-left: 310px;
+    background-image: url("../images/Header.png");
+    background-size: 360px, auto;
+}
+
+.contentProfile {
+    width: 360px;
+    height: 795px;
+    background-image: url("../images/Profile.png");
+    background-size: 360px, 740px;
+}
+
+.paddingProfileBack {
+    padding-top: 10px;
+    padding-left: 310px;
+}
+
+.paddingProfileFridge {
+    padding-top: 675px;
+}
+
+.contentFridge {
+   width: 360px;
+    height: 1522px;
+    background-image: url("../images/Fridge.png");
+    background-size: 360px, 740px;    
+}
