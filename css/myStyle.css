@@ -1,0 +1,255 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: #454545;
+    line-height: 26px;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h1 {
+    display: block;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 3em;
+    color: #282828;
+    text-align:center;
+    hyphens: manual;
+}
+
+.heading h1 {
+  display: inline-block;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    color: #454545;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: #ffffff;
+}
+
+h5 {
+    font-family: 'Lora', sans-serif;
+    font-weight: 100;
+    padding-top: 8px;
+}
+
+header {
+    background: #F9A400;
+    min-height: 800px;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #eaeaea;
+    text-decoration: none;
+}
+
+a:focus {
+    color: #ffffff;
+}
+
+p {
+    font-size: 18px;
+    color: #454545;
+}
+
+.subtitle {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 26px; 
+    font-size: 14px;
+    color: #bebebe;
+}
+
+#portfolio {
+    padding-top: 100px;
+}
+
+#aboutme {
+    background-color: #efefef;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+header #consorsbank {
+    background: #1280A4;
+}
+
+.project_header a {
+    color: #454545;
+}
+
+.project_header {
+    padding-bottom: 50px;
+}
+
+#introCB {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#introDB {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#introMaster {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.conceptCB {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #464646;
+    color: #ffffff;
+}
+
+.conceptCB h2 {
+    color: #ffffff;
+}
+
+.conceptCB p {
+    color: #ffffff;
+}
+
+#cocreationDB {
+    padding-bottom: 100px;
+}
+
+.conceptDB {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #BEE2E5;
+    color: #454545;
+}
+
+#conceptIdealo {
+    padding-bottom: 100px;
+}
+
+#culturalProbeMaster {
+    padding-bottom: 100px;
+}
+
+.personasMaster {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #282828;
+    color: #ffffff;
+}
+
+.personasMaster p{
+    color: #ffffff;
+}
+
+.personasMaster h2{
+    color: #ffffff;
+}
+
+.scenariosMaster {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.ideationMaster {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.conceptMaster {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #5EB8A7;
+    color: #ffffff;
+}
+
+.conceptMaster p {
+    color: #ffffff;
+}
+
+.conceptMaster h2 {
+    color: #ffffff;
+}
+
+.testIdealo {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #3F5F7B;
+    color: #ffffff;
+}
+
+.testIdealo p{
+    color: #ffffff;
+}
+
+.testIdealo h2 {
+    color: #ffffff;
+}
+
+.prototypCB {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.shadow {
+    -webkit-box-shadow: 2px 2px 10px 0px rgba(150,150,150,0.5);
+    -moz-box-shadow: 2px 2px 10px 0px rgba(150,150,150,0.5);
+    box-shadow: 2px 2px 10px 0px rgba(150,150,150,0.5);;
+}
+
+.designCB {
+    color: #ffffff;
+    background: #1280A4;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.designIdealo {
+    color: #454545;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#footer {
+    padding-top: 20px;
+    padding-bottom: 5px;
+    background-color: #454545;
+}
+
+#footer p {
+    color: #ffffff;
+}
+
+figure {
+  padding: 5px;
+}
+
+figure figcaption {
+    font-size: 12px;
+  padding: 2px 4px 2px 4px;
+  color: #ffffff;
+  border-radius: 0 0 3px 3px;
+}
